@@ -1,5 +1,7 @@
 p {
   color: red;
+  line-height: 150%;
+  font-style: italic;
 }
 
 h3 {
